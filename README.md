@@ -1,1 +1,1 @@
-New shell project
+Shell init
